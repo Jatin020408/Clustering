@@ -34,31 +34,7 @@ python clustering_analysis.py
 ```
 pip install numpy pandas matplotlib seaborn datasets torch transformers
 ```
-## 6. Output
 
-The script will print the TOPSIS scores and display the best-ranked model:
-
-
-
-
-```bash
-  TOPSIS Results for Conversational Models:
-                                  TOPSIS Score
-microsoft/DialoGPT-small                0.7317
-gpt2                                    0.6431
-EleutherAI/gpt-neo-125M                 0.6014
-microsoft/DialoGPT-medium               0.5272
-facebook/blenderbot-400M-distill        0.1813
-```
-Best model based on TOPSIS analysis: microsoft/DialoGPT-small
-
-## Author
-
-This project was developed for an AI/ML research project on conversational models. If you have any questions, feel free to reach out!
-
-## License
-
-MIT License
     
 
 
